@@ -1,4 +1,4 @@
-baseURL = "http://www.cberruz.com/handy-data-collection/"
+baseURL = "https://handy-data-collection.web.app"
 languageCode = "en-us"
 title = "Data collection for Handy"
 theme = "ananke"
