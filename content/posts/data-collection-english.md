@@ -9,11 +9,19 @@ to determine handwashing time by using vision powered by Artificial Intelligence
 
 ## Why we need your help?
 
-Training Artificial Intelligence models is not only time consuming, but it requires vast ammounts of data.
+We need videos that show the full handwashing experience: someone approaching the sink, washing their hands, and leaving the sink to train an Artificial Intelligence model.
 
-There is currently no publicly available dataset for handwashing that satisfies our needs.  We need videos
-that show the full handwashing experience; from someone approaching the sink, washing their hands, and leaving
-the sink.
+## Sample videos
+
+Please watch the following videos to have an idea of what are we looking for.
+
+### Side view video example
+
+{{<side_view_video>}}
+
+### Top View video example
+
+{{<top_view_video>}}
 
 ## Instructions
 
@@ -25,23 +33,23 @@ Follow the instructions to make sure your video is of good quality. THANK YOU!
 
 2. Make sure the environment is well lit.
 
-3. You should wash your hands in a regular sink.
+3. You should wash your hands in a REGULAR sink.
 
-4. Only your hands should appear on the video for privacy reasons.
+4. ONLY YOUR HANDS  should appear on the video for PRIVACY reasons.
 
 ### Recording
 
-Before recording, please watch our [samples videos.](#sample-videos)
+Before recording, please watch our [sample videos.](#sample-videos)
 
 Please record one **top-view** video and one **side-view** video.
 
 1. Maintain a **steady** position of the phone. Do not rotate the phone around.
 
-2. Start recording by direct camera on sink.
+2. Start recording by directing the camera to the sink.
 
 3. Wait approximately 5 seconds before coming to the sink a.k.a before hands appear in the video.
 
-4. Wash your hand as you will normally do (5-15 sec).
+4. Wash your hand as you will normally do (5-25 sec).
 
 5. Leave the sink.
 
@@ -54,13 +62,3 @@ Please record one **top-view** video and one **side-view** video.
 Valid extensions are:
 
 {{<submit_video>}}
-
-## Sample videos
-
-### Side view video example
-
-{{<side_view_video>}}
-
-### Top View video example
-
-{{<top_view_video>}}
