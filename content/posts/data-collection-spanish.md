@@ -56,8 +56,8 @@ Formatos válidos del archivo:
 
 ### Vista lateral
 
-[![Video de vista lateral](http://img.youtube.com/vi/LLWRaJ2W0VY/0.jpg)](https://www.youtube.com/watch?v=LLWRaJ2W0VY "Ejemplo de video de vista lateral")
+{{<side_view_video>}}
 
 ### Vista superior
 
-[![Video de vista superior](http://img.youtube.com/vi/kCcQZ4bP31A/0.jpg)](https://www.youtube.com/watch?v=kCcQZ4bP31A "Ejemplo de video de vista superior")
+{{<top_view_video>}}

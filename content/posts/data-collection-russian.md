@@ -56,8 +56,8 @@ draft: false
 
 ### Пример видео со стороны
 
-[![Пример видео со стороны](http://img.youtube.com/vi/LLWRaJ2W0VY/0.jpg)](https://www.youtube.com/watch?v=LLWRaJ2W0VY "Пример видео со стороны")
+{{<side_view_video>}}
 
 ### Пример видео сверху
 
-[![Пример видео сверху](http://img.youtube.com/vi/kCcQZ4bP31A/0.jpg)](https://www.youtube.com/watch?v=kCcQZ4bP31A "Пример видео сверху")
+{{<top_view_video>}}

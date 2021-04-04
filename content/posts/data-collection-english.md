@@ -59,8 +59,8 @@ Valid extensions are:
 
 ### Side view video example
 
-[![Side view video](http://img.youtube.com/vi/LLWRaJ2W0VY/0.jpg)](https://www.youtube.com/watch?v=LLWRaJ2W0VY "Side view video example")
+{{<side_view_video>}}
 
 ### Top View video example
 
-[![Top view video](http://img.youtube.com/vi/kCcQZ4bP31A/0.jpg)](https://www.youtube.com/watch?v=kCcQZ4bP31A "Top view video example")
+{{<top_view_video>}}
