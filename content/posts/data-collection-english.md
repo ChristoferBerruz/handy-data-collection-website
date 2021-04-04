@@ -50,6 +50,9 @@ Please record one **top-view** video and one **side-view** video.
 7. Stop recording.
 
 ## Submit your video
+
+Valid extensions are:
+
 {{<submit_video>}}
 
 ## Sample videos
