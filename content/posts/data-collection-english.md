@@ -31,7 +31,7 @@ Follow the instructions to make sure your video is of good quality. THANK YOU!
 
 ### Recording
 
-Before recording, please watch our samples videos.
+Before recording, please watch our [samples videos.](#sample-videos)
 
 Please record one **top-view** video and one **side-view** video.
 

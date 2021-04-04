@@ -27,7 +27,7 @@ Siga las instrucciones para asegurarse de que su video sea de buena calidad. ¡G
 
 ### Grabación
 
-Antes de grabar, mire nuestros videos de muestra.
+Antes de grabar, mire nuestros [videos de muestra.](#videos-de-muestra)
 
 Grabe un video de **vista superior** y un video de **vista lateral**.
 
