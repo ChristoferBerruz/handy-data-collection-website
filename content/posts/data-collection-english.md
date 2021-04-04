@@ -37,6 +37,8 @@ Follow the instructions to make sure your video is of good quality. THANK YOU!
 
 4. ONLY YOUR HANDS  should appear on the video for PRIVACY reasons.
 
+5. Make sure there are no extra objects on the sink that might obstruct the view.
+
 ### Recording
 
 Before recording, please watch our [sample videos.](#sample-videos)

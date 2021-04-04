@@ -37,6 +37,8 @@ Siga las instrucciones para asegurarse de que su video sea de buena calidad. ¡G
 
 4. SOLAMENTE SUS MANOS deben aparecer en el video por razones de PRIVACIDAD.
 
+5. El fregadero debe estar lo más libre de objetos posible.
+
 ### Grabación
 
 Antes de grabar, mire nuestros [videos de muestra.](#videos-de-muestra)
