@@ -48,6 +48,10 @@ draft: true
 
 ## Образцы видео
 
+допустимые расширения:
+
+{{<submit_video>}}
+
 ### Пример видео со стороны
 
 [![Пример видео со стороны](http://img.youtube.com/vi/LLWRaJ2W0VY/0.jpg)](https://www.youtube.com/watch?v=LLWRaJ2W0VY "Пример видео со стороны")
