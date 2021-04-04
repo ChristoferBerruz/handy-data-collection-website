@@ -1,5 +1,5 @@
 ---
-title: "Data collection instructions"
+title: "Data Collection English"
 date: 2021-04-03T16:36:24-04:00
 draft: false
 ---
