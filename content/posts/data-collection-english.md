@@ -57,4 +57,4 @@ Please record one **top-view** video and one **side-view** video.
 
 ### Top View video example
 
-[![Side view video](http://img.youtube.com/vi/kCcQZ4bP31A/0.jpg)](https://www.youtube.com/watch?v=kCcQZ4bP31A "Side view video example")
+[![Top view video](http://img.youtube.com/vi/kCcQZ4bP31A/0.jpg)](https://www.youtube.com/watch?v=kCcQZ4bP31A "Top view video example")
