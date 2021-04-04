@@ -10,7 +10,8 @@ var firebaseConfig = {
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
 firebase.analytics();
-
+console.log(firebase);
+var storageRef = firebase.storage().ref();
 const submitBtn = document.getElementById("fileSubmitBtn");
 function handleSubmit(){
     const input = document.getElementById("fileinput");

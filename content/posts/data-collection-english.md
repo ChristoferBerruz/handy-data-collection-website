@@ -49,6 +49,9 @@ Please record one **top-view** video and one **side-view** video.
 
 7. Stop recording.
 
+## Submit your video
+{{<submit_video>}}
+
 ## Sample videos
 
 ### Side view video example
