@@ -9,7 +9,19 @@ determinar el tiempo de lavado de manos mediante el uso de la cámaras e intelig
 
 ## ¿Por qué necesitamos tu ayuda?
 
-Actualmente, no existe un grupo de datos públicos acerca del lavado de manos que satisfaga nuestras necesidades. Necesitamos videos que muestren la experiencia completa del lavado de manos; desde el momento en que alguien se acerca al fregadero, se lava las manos y se va.
+Necesitamos videos que muestren la experiencia completa de lavarse las manos: alguien acercándose al fregadero, lavándose las manos y saliendo del fregadero para entrenar a un modelo de Inteligencia Artificial.
+
+## Videos de muestra
+
+Mire los siguientes videos para tener una idea de lo que estamos buscando.
+
+### Vista lateral
+
+{{<side_view_video>}}
+
+### Vista superior
+
+{{<top_view_video>}}
 
 ## Instrucciones
 
@@ -21,9 +33,9 @@ Siga las instrucciones para asegurarse de que su video sea de buena calidad. ¡G
 
 2. Asegúrese de que el ambiente esté bien iluminado.
 
-3. Debe lavarse las manos en un fregadero normal.
+3. Debe lavarse las manos en un fregadero NORMAL.
 
-4. Solo sus manos deben aparecer en el video por razones de privacidad.
+4. SOLAMENTE SUS MANOS deben aparecer en el video por razones de PRIVACIDAD.
 
 ### Grabación
 
@@ -38,7 +50,7 @@ Grabe un video de **vista superior** y un video de **vista lateral**.
 3. Espere aproximadamente 5 segundos antes de llegar al fregadero, es decir antes que sus manos aparezcan
 en el fregadero.
 
-4. Lávese las manos como lo hace normalmente (5-15 segundos aproximadamente).
+4. Lávese las manos como lo hace normalmente (5-25 segundos aproximadamente).
 
 5. Deje el fregadero.
 
@@ -51,13 +63,3 @@ en el fregadero.
 Formatos válidos del archivo:
 
 {{<submit_video>}}
-
-## Videos de muestra
-
-### Vista lateral
-
-{{<side_view_video>}}
-
-### Vista superior
-
-{{<top_view_video>}}
