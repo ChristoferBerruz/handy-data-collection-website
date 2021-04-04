@@ -1,5 +1,5 @@
 ---
-title: "Colección de muestras Español"
+title: "Ayúdanos a entrenar un modelo de Inteligencia Artificial"
 date: 2021-04-03T16:52:13-04:00
 draft: false
 ---
