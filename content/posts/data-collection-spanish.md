@@ -62,6 +62,8 @@ en el fregadero.
 
 ## Envíe su video
 
+Por favor espere entre 10 - 20 segundos después de presionar Submit para que se suba el archivo.
+
 Formatos válidos del archivo:
 
 {{<submit_video>}}

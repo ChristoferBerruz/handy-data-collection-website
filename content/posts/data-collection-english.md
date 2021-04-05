@@ -61,6 +61,8 @@ Please record one **top-view** video and one **side-view** video.
 
 ## Submit your video
 
+Please allow around 10-20 seconds after hitting submit for the video to upload.
+
 Valid extensions are:
 
 {{<submit_video>}}

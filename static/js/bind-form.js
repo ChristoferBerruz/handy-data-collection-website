@@ -4,6 +4,8 @@ const videoExtensionInfo = document.getElementById('valid-extensions-info');
 const extensionInfo = validExtensions.reduce((prev, cur) => prev + ' | ' + cur, '');
 videoExtensionInfo.innerText = videoExtensionInfo.innerText + extensionInfo;
 
+const progressP = document.getElementById('show-progress-p');
+
 var firebaseConfig = {
     apiKey: "AIzaSyBHdWLX3v3L8pNOvBGRAHm3cUMs4sRhnpY",
     authDomain: "handy-data-collection.firebaseapp.com",
@@ -31,11 +33,13 @@ function handleSubmit(){
             return;
         }
 
+        progressP.innerText = 'Uploading video...';
         let randomID = makeid(20);
         let fileName = `${randomID}-${file.name}`;
         ref = storage.ref(fileName);
 
         ref.put(file).then(() => {
+            progressP.innerText = 'Done uploading.';
             alert("Sucessfully submitted your file. Thank you!");
         });
     }else{
