@@ -43,7 +43,7 @@ Follow the instructions to make sure your video is of good quality. THANK YOU!
 
 Before recording, please watch our [sample videos.](#sample-videos)
 
-Please record one **top-view** video and one **side-view** video.
+Please record first **top-view** video and second **side-view** video.
 
 1. Maintain a **steady** position of the phone. Do not rotate the phone around.
 
@@ -61,6 +61,7 @@ Please record one **top-view** video and one **side-view** video.
 
 ## Submit your video
 
+Please submit both side and top view videos, one at a time.
 Please allow around 10-20 seconds after hitting submit for the video to upload.
 
 Valid extensions are:
